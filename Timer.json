@@ -2,8 +2,8 @@
 {
   "devices": {
     "Timer": {
-      "version": "1.1",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/Timer/main/Timer.v.1.1.bin",
+      "version": "1.2",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/Timer/main/Timer.v.1.2.bin",
       "force": false
     }
   }
